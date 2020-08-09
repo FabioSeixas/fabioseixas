@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Fábio, Brazilian, 26, Dad of a gril and developer!
+### Hi there 👋. I'm Fábio, Brazilian, 26, Dad of a girl and developer!
 - I’m currently working on my Master Thesis on Agricultural Engineering
 - I’m learning Web Development
 - Next Goal: Land my first job as developer
