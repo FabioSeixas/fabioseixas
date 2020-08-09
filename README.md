@@ -1,10 +1,24 @@
-### Hi there 👋
+### Hi there 👋. I'm Fábio, Brazilian, 26, Dad of a gril and developer!
+- I’m currently working on my Master Thesis on Agricultural Engineering
+- I’m learning Web Development
+- Next Goal: Land my first job as developer
 
-#### I'm Fábio, a Brazilian, 26, Dad of a gril and self taught developer with background in Agricultural Engineering. 
+### Languages that I currently work with
 
-I have made projects in R and Python. Currently, I'm learning JS and Web Development.
+<img align="left" alt="R" width="26px" src="https://github.com/github/explore/blob/master/topics/r/r.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/master/topics/python/python.png" />
 
-My experience with code has a lot to do with the current Master Research. Check my pinned projects:
+<br />
+
+### Learning Full-Stack Web development
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />. 
+
+<br/>
+
+My experience has a lot to do with the current Master Research. Check my pinned projects:
 
 - **CassavaPy** [**[Repo](https://github.com/FabioSeixas/CassavaPy)**] [[**Docs**](https://cassavapy.readthedocs.io/)] [[**PyPi**](https://pypi.org/project/CassavaPy/)]
 
