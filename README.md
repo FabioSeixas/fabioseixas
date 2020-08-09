@@ -19,6 +19,12 @@
 <br/>
 <br/>
 
+### Open Source Contribution
+
+- **traDSSAT** [[**Repo**](https://github.com/julienmalard/traDSSAT)]
+
+  An awesome [DSSAT](https://dssat.net/) file management tool. I fixed a bug and increased it a little bit [[#20](https://github.com/julienmalard/traDSSAT/pull/20)] [[#21](https://github.com/julienmalard/traDSSAT/pull/21)] [[#22](https://github.com/julienmalard/traDSSAT/pull/22)] [[#23](https://github.com/julienmalard/traDSSAT/pull/23)].
+
 ### Projects
 
 My experience has a lot to do with the current Master Research. Check my pinned projects:
@@ -38,9 +44,3 @@ My experience has a lot to do with the current Master Research. Check my pinned 
 - **FilesDSSAT** [[**Repo**](https://github.com/FabioSeixas/FilesDSSAT)]
 
   An OOP exercise to translate data from one format to another. Of course, It is also related to DSSAT and boring tasks.
-
-#### Open Source Contribution
-
-- **traDSSAT** [[**Repo**](https://github.com/julienmalard/traDSSAT)]
-
-  An awesome DSSAT file management tool. I fixed a bug and increased it a little bit [[#20](https://github.com/julienmalard/traDSSAT/pull/20)] [[#21](https://github.com/julienmalard/traDSSAT/pull/21)] [[#22](https://github.com/julienmalard/traDSSAT/pull/22)] [[#23](https://github.com/julienmalard/traDSSAT/pull/23)].
