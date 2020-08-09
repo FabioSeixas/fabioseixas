@@ -19,6 +19,8 @@
 <br/>
 <br/>
 
+### Projects
+
 My experience has a lot to do with the current Master Research. Check my pinned projects:
 
 - **CassavaPy** [**[Repo](https://github.com/FabioSeixas/CassavaPy)**] [[**Docs**](https://cassavapy.readthedocs.io/)] [[**PyPi**](https://pypi.org/project/CassavaPy/)]
