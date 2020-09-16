@@ -33,7 +33,7 @@ My experience has a lot to do with the current Master Research. Check my pinned 
 
   [DSSAT](https://dssat.net/) experimental files creation are boring and prone to errors. This project automates the process (a lot). Also, we can run simulations from command line and extract outputs easily (it use [traDSSAT](https://github.com/julienmalard/traDSSAT)).
 
-- **ShinyApp** [[**Repo**](https://github.com/FabioSeixas/ShinyApp)] [[**Live**](https://cassava.shinyapps.io/cassava/)]
+- **ShinyApp** [[**Repo**](https://github.com/FabioSeixas/ShinyApp)] [[**Live**](https://cassava.shinyapps.io/cassavapainel/)]
 
   Well, mechanistic models yields a lot of information. In order to know what's going on you need to visualize at least two or three variables. So, I made a dashboard to not only easy that process but also share results with my team.
   
