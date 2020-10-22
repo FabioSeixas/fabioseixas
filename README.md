@@ -13,8 +13,13 @@
 ### Learning Full-Stack Web development:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Typescript" width="26px" src="https://github.com/github/explore/blob/master/topics/typescript/typescript.png" />
+
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />. 
+
 
 <br/>
 <br/>
@@ -27,7 +32,9 @@
 
 ### Projects
 
-My experience has a lot to do with the current Master Research. Check my pinned projects:
+- **SoilWaterBalance** [**[Backend](https://github.com/FabioSeixas/SoilWaterBalance)**] [**[FrontendWeb](https://github.com/FabioSeixas/SoilWaterBalanceFrontend)**] [**[Mobile](https://github.com/FabioSeixas/SoilWaterBalanceMobile)**]
+
+  I'm developing an app to easily get data from INMET API and use them for soil water balance analysis.
 
 - **CassavaPy** [**[Repo](https://github.com/FabioSeixas/CassavaPy)**] [[**Docs**](https://cassavapy.readthedocs.io/)] [[**PyPi**](https://pypi.org/project/CassavaPy/)]
 
