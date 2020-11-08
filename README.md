@@ -34,6 +34,10 @@
 
   I'm developing an app to easily get data from INMET API and use them for soil water balance analysis.
 
+- **GoBarber** [**[Backend](https://github.com/FabioSeixas/GoBarberBackend)**] [**[FrontendWeb](https://github.com/FabioSeixas/GoBarberFrontend)**] [**[Mobile](https://github.com/FabioSeixas/GoBarberMobile)**]
+
+  An app developed along the GoStack bootcamp. It allows users to schedule barber service and barbers to have their agenda at hand
+
 - **CassavaPy** [**[Repo](https://github.com/FabioSeixas/CassavaPy)**] [[**Docs**](https://cassavapy.readthedocs.io/)] [[**PyPi**](https://pypi.org/project/CassavaPy/)]
 
   [DSSAT](https://dssat.net/) experimental files creation are boring and prone to errors. This project automates the process (a lot). Also, we can run simulations from command line and extract outputs easily (it use [traDSSAT](https://github.com/julienmalard/traDSSAT)).
