@@ -1,12 +1,7 @@
 ### Hi there 👋. I'm Fábio, Brazilian, 26, Dad of a girl and developer!
-### Languages that I currently work with:
+### Technologies that with:
 
-<img align="left" alt="R" width="26px" src="https://github.com/github/explore/blob/master/topics/r/r.png" />
 <img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/master/topics/python/python.png" />
-
-<br />
-
-### Learning Full-Stack Web development:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -15,6 +10,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> 
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />. 
+
+<img align="left" alt="R" width="26px" src="https://github.com/github/explore/blob/master/topics/r/r.png" />
 
 <br />
 
