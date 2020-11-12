@@ -1,8 +1,4 @@
 ### Hi there 👋. I'm Fábio, Brazilian, 26, Dad of a girl and developer!
-- I’m currently working on my Master Thesis on Agricultural Engineering
-- I’m learning Web Development
-- Next Goal: Land my first job as developer
-
 ### Languages that I currently work with:
 
 <img align="left" alt="R" width="26px" src="https://github.com/github/explore/blob/master/topics/r/r.png" />
