@@ -10,6 +10,7 @@
 - MongoDB
 - React
 - ReactNative
+- Golang (learning...)
 
 ### Open Source Contribution
 
