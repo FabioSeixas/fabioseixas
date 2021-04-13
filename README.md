@@ -2,15 +2,15 @@
 
 ### Technologies that I work with:
 
-- Python
-- Javascript
-- R language
-- Typescript
-- Node.js
-- MongoDB
-- React
-- ReactNative
-- Golang (learning...)
+- `Python`
+- `Javascript`
+- `R language`
+- `Typescript`
+- `Node.js`
+- `MongoDB`
+- `React`
+- `ReactNative`
+- `Golang` (learning...)
 
 ### Open Source Contribution
 
