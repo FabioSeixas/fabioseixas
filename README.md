@@ -1,7 +1,5 @@
 ### Hi there 👋. I'm Fábio, Brazilian, 26, Dad of a girl and developer!
 
-<br/>
-
 ### Technologies that I work with:
 
 - Python
