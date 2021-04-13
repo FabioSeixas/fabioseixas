@@ -13,8 +13,6 @@
 - React
 - ReactNative
 
-<br />
-
 ### Open Source Contribution
 
 - **traDSSAT** [[**Repo**](https://github.com/julienmalard/traDSSAT)]
