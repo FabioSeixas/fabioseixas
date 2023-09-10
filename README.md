@@ -2,7 +2,7 @@
 
 I'm fullstack developer working daily with Typescript, React, React Native and Node at [ZigFun](https://zig.fun/en/).
 
-I currently focused on learning Rust.
+I currently learning Rust.
 
 #### Reach me on
 
