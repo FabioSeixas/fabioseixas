@@ -1,8 +1,8 @@
-### Hi there 👋. I'm Fábio, Brazilian, 29, dad of a girl and developer!
+### Hi there 👋. I'm Fábio, Brazilian, 30, dad of a girl and developer!
 
-I'm fullstack developer working daily with Typescript, React, React Native and Node at [ZigFun](https://zig.fun/en/).
+I'm Fullstack developer working daily with Typescript, React and Node at [ZigFun](https://zig.fun/en/).
 
-I currently learning Rust.
+I currently learning Golang.
 
 #### Reach me on
 
